@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header h1 {
+    background-color: white;
+    color: black;
+    padding: 5px 10px 5px 50px;
+}
+header a {
+    text-decoration: none;
+    color: white;
+}
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+header nav ul li a {
+    margin: 0 20px;
+    padding: 10px;
+    border-bottom: solid 2px white;
+}
