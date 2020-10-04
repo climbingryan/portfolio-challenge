@@ -220,3 +220,41 @@ header nav ul li a {
     color: black;
     border-bottom: 2px solid black;
 }
+
+@media screen and (max-width: 980px) {
+    .contact-info a {
+        font-size: 20px;
+    }
+    header nav ul li a {
+        font-size: 20px;
+    }
+} 
+@media screen and (max-width: 768px) {
+    .work-img-text {
+        padding: 3px;
+    }
+    .work-img-text h3 {
+        font-size: 14px;
+    }
+    .work-img-text p {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 575px) {
+    header h1 {
+        margin-bottom: 10px;
+    }
+    header nav ul li a {
+        padding-bottom: 1px;
+    }
+    .work-img-text {
+        padding: 1px;
+    }
+    .work-img-text h1 {
+        font-size: 5px;
+    }
+    .work-img-text {
+        font-size: 3px;
+    }
+
+}
