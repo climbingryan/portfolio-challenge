@@ -1,4 +1,4 @@
-# portfolio-challenge
+# Portfolio
 
 ![alt text](https://img.shields.io/badge/html-css-orange?style=plastic)
 ![alt text](https://img.shields.io/badge/license-none-brightgreen?style=plastic)
