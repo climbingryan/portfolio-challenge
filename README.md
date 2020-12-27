@@ -1,13 +1,12 @@
 # portfolio-challenge
 
-#Description
-portfolio website for the advanced css module
+![alt text](https://img.shields.io/badge/html-css-orange?style=plastic)
+![alt text](https://img.shields.io/badge/license-none-brightgreen?style=plastic)
+![alt text](https://img.shields.io/badge/difficulty-challenge-red?style=plastic)
+![alt text](https://img.shields.io/badge/made%20by-kevin-blue?style=plastic)
 
-#Deployed Link
+# Description
+My portfolio website showcasing some of the websites i've built using varying technologies. From full front end applications using the base html, css, & javascript to full stack applications using node.js, heroku, and mySQL. 
+
+# Deployed Link
 https://climbingryan.github.io/portfolio-challenge/
-
-#problems
-I did not understand the css animations for the Work section of the site.
-I'm completing the challenge on sunday, and i don't  have enough time to figure
-out the animations and turn the project in on time, so i've decided to skip them
-for now and complete them afterwards. 
